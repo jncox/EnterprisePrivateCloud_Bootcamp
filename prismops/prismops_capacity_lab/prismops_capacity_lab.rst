@@ -39,7 +39,7 @@ Capacity runway is a measure of the remaining capacity left within a given clust
 
 #. Click on the **Prism-Pro-Cluster** cluster.
 
-. You can now take a look at the Runway for Storage, CPU, and Memory.
+#. You can now take a look at the Runway for Storage, CPU, and Memory.
 
    .. figure:: images/ppro_12.png
 

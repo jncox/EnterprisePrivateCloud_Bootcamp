@@ -91,7 +91,7 @@ Now let's look at how we can take automated action to resolve some of these inef
 
    .. figure:: images/rs3.png
 
-#.  We will need to create a couple Playbooks for this workflow to be possible. Let's start by clicking **Create Playbook**. We will first be creating the Playbook that will be increasing the Memory of the VM.
+#. We will need to create a couple Playbooks for this workflow to be possible. Let's start by clicking **Create Playbook**. We will first be creating the Playbook that will be increasing the Memory of the VM.
 
    .. figure:: images/rs3b.png
 
